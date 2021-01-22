@@ -1,0 +1,6 @@
+.form {
+  width: 700px;
+  backdrop-filter: blur(2px);
+  background: linear-gradient(to right, #000428, #004e92);
+  
+}
